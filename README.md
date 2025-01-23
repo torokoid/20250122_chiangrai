@@ -174,7 +174,11 @@ p.note { display: none; }
 
 <h2><span class="yellow">いつものスーパーに向かいます、夕陽に向かって走れ！</span></h2>
 <a href="20250122_016.JPG" target="_blank"><img src="20250122_016.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">日没前にスーパーに到着</span></h2>
 <a href="20250122_017.JPG" target="_blank"><img src="20250122_017.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">買い物後は、夕焼け空になりました</span></h2>
 <a href="20250122_018.JPG" target="_blank"><img src="20250122_018.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">メーチャンの市街も綺麗に暮れて行きました</span></h2>
