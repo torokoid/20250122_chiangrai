@@ -180,6 +180,9 @@ p.note { display: none; }
 <h2><span class="yellow">メーチャンの市街も綺麗に暮れて行きました</span></h2>
 <a href="20250122_019.JPG" target="_blank"><img src="20250122_019.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">同じ場所のGoogleMapsストリートビュー</span></h2>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1737592608291!6m8!1m7!1sFCkoLV6DJ48bqq3CzBCd_w!2m2!1d20.1468671110346!2d99.85627538854762!3f281.131226989732!4f4.525319710522808!5f1.349155548152566" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><br>
+
 <h2><span class="yellow">最初の夕陽から1時間後には、いつもの綺麗なグラデーション</span></h2>
 <a href="20250122_020.JPG" target="_blank"><img src="20250122_020.JPG" alt="サンプル画像" width="900" /></a>
 
