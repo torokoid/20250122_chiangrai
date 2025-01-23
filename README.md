@@ -169,6 +169,9 @@ p.note { display: none; }
 <h2><span class="yellow">DVDで映画が観られるようになりました</span></h2>
 <a href="20250122_015.JPG" target="_blank"><img src="20250122_015.JPG" alt="サンプル画像" width="900" /></a>
 
+<h2><span class="yellow">作業中のBGMはコレ、イライラ解消には最高です</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r395_jOC1_Q?si=YoHiP_JNuEcSAvgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
 <h2><span class="yellow">いつものスーパーに向かいます、夕陽に向かって走れ！</span></h2>
 <a href="20250122_016.JPG" target="_blank"><img src="20250122_016.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250122_017.JPG" target="_blank"><img src="20250122_017.JPG" alt="サンプル画像" width="900" /></a>
